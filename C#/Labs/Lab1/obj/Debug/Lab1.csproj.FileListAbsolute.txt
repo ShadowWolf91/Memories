@@ -1,0 +1,7 @@
+D:\BSTU\Memories\Labs\Lab1\bin\Debug\Lab1.exe.config
+D:\BSTU\Memories\Labs\Lab1\bin\Debug\Lab1.exe
+D:\BSTU\Memories\Labs\Lab1\bin\Debug\Lab1.pdb
+D:\BSTU\Memories\Labs\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\BSTU\Memories\Labs\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\BSTU\Memories\Labs\Lab1\obj\Debug\Lab1.exe
+D:\BSTU\Memories\Labs\Lab1\obj\Debug\Lab1.pdb
